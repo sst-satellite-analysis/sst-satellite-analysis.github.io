@@ -3,7 +3,7 @@ title: "About"
 ---
 
 ## Team Members:
-- Peter Menzies  
+- [Peter Menzies](https://github.com/petermenzies)  
 - Ryan Munnikhuis  
 - Juliet Cohen
 
