@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+## Team Members:
+- Peter Menzies  
+- Ryan Munnikhuis  
+- Juliet Cohen
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
