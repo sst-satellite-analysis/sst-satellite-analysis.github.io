@@ -3,6 +3,9 @@ title: "About"
 ---
 
 ## Team Members:
+
+- [Peter Menzies](https://github.com/petermenzies)  
+- [Ryan Munnikhuis](https://github.com/RyanMunnikhuis)  
 - [Juliet Cohen](https://github.com/julietcohen)
 
 ```{r setup, include=FALSE}
