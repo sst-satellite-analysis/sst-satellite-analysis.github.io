@@ -5,7 +5,7 @@ title: "About"
 ## Team Members:
 - [Peter Menzies](https://github.com/petermenzies)  
 - [Ryan Munnikhuis](https://github.com/RyanMunnikhuis)  
-- Juliet Cohen
+- [Juliet Cohen](https://github.com/julietcohen)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
